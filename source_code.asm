@@ -1,4 +1,4 @@
-a
+
 .data
 grid:  	.word 0, 0, 0, 0, 0, 0, 0, 0, 0
 input1:		.asciiz "\n User X please select the next square (1-9):  "
